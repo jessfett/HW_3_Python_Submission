@@ -77,8 +77,8 @@ print(f"Greatest Decrease in Profit: {month_min} (${comma_min_month})")
 
 
 #output summary
-output_summary=("Financial Analysis"
-"----------------------------------------"
+output_summary=("Financial Analysis\n"
+"----------------------------------------\n"
 f"Total Months: {monthcount}\n"
 f"Total: ${comma_total}\n"
 f"Average Change: ${comma_average_change}\n"
